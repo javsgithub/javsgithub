@@ -19,7 +19,7 @@ Hoje, direciono minha disciplina e foco para o desenvolvimento front-end e para 
 
 Ser capaz de desenvolver aplicações digitais com foco em arquitetura de software e boas práticas de programação, capazes de transformar realidades e resolver dores reais das pessoas por meio de um código limpo, bem estruturado, legível e eficiente. Atualmente, sou estudante de **Análise e Desenvolvimento de Sistemas** e **Engenharia Front-End**. Tenho explorado **IA Generativa** para acelerar meu aprendizado e criar soluções mais criativas e escaláveis, com o objetivo de consolidar minha carreira como desenvolvedor full-stack JavaScript. 
 
-## 📌 Projetos em Destaque 
+## 📌 Projeto em Destaque 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=javsgithub&repo=copia_projeto_final&theme=dark)](https://github.com/javsgithub/copia_projeto_final) 
 
