@@ -7,7 +7,7 @@ Hoje, direciono minha disciplina e foco para o desenvolvimento front-end e para 
 
 - **Assistente Administrativo - CRECI 9ª Região/BA** - Responsável por processos administrativos complexos, organização de audiências e atendimento humanizado, desenvolvendo habilidades de comunicação, análise e solução de problemas.
 - **Ouvidor Assistente - Instituto de Gestão das Águas da Bahia, hoje INEMA** - Escuta empática e direcionada, com foco na análise do problema e resolução junto aos setores competentes.
-- **Professor de Língua Portugues e Inglesa - Redes Estaduais de Ensino do Amapá, do Espírito Santo e Municipal de Salvador/BA** - Ensino das línguas inglesa e portuguesa para alunos do ensino fundamental e médio.
+- **Professor de Língua Portuguesa e Inglesa - Redes Estaduais de Ensino do Amapá, do Espírito Santo e Municipal de Salvador/BA** - Ensino das línguas inglesa e portuguesa para alunos do ensino fundamental e médio.
 
 ## 📱 Especialidades 
 
@@ -17,7 +17,7 @@ Hoje, direciono minha disciplina e foco para o desenvolvimento front-end e para 
 
 ## 🚀 O que me motiva 
 
-Ser capaz de desenvolver aplicações digitais com foco em arquitetura de software e boas práticas de programação, capazes de de transformar realidades e resolver dores reais das pessoas por meio de um código limpo, bem estruturado, legível e eficiente. Atualmente, sou estudante de **Análise e Desenvolvimento de Sistemas** e **Engenharia Front-End**. Tenho explorado **IA Generativa** para acelerar meu aprendizado e criar soluções mais criativas e escaláveis, com o objetivo de consolidar minha carreira como desenvolvedor full-stack JavaScript. 
+Ser capaz de desenvolver aplicações digitais com foco em arquitetura de software e boas práticas de programação, capazes de transformar realidades e resolver dores reais das pessoas por meio de um código limpo, bem estruturado, legível e eficiente. Atualmente, sou estudante de **Análise e Desenvolvimento de Sistemas** e **Engenharia Front-End**. Tenho explorado **IA Generativa** para acelerar meu aprendizado e criar soluções mais criativas e escaláveis, com o objetivo de consolidar minha carreira como desenvolvedor full-stack JavaScript. 
 
 ## 📌 Projetos em Destaque 
 
